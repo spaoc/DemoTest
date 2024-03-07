@@ -1,0 +1,145 @@
+https://blazedemo.com/
+
+npm install selenium-side-runner
+
+npm install -g chromedriver
+
+npm install -g geckodriver
+
+npm install -g edgedriver
+
+selenium-side-runner -c "browserName=chrome" Registration.side
+
+selenium-side-runner -c "browserName=firefox" Registration.side
+
+selenium-side-runner -c "browserName=MicrosoftEdge"  Registrationm.side
+
+ 
+
+ 
+
+selenium-side-runner -c "browserName=firefox"  selsuite.side
+
+npm install -g selenium-side-runner
+
+ 
+
+C:\VOTRENOMDEUSAGER\majua\node_modules\.bin
+
+ 
+
+C:\Users\DNB3146\AppData\Local\npm-cache\_logs\2024-02-28T02_18_25_133Z-debug-0.log
+
+ 
+
+ 
+
+https://drive.google.com/drive/folders/1br3SBxYA86VcmWTQb9D9X8eptrxwcwn7?usp=sharing
+
+ 
+
+ 
+
+echo %JAVA_HOME%
+
+java -jar selenium-server-standalone-4.15.0.jar standalone
+
+ 
+
+https://saucelabs.com/
+
+
+
+==============================================================================================
+1:21
+
+
+
+npm i -g selenium-side-runner
+where selenium-side-runner
+C:\Users\Pao\AppData\Roaming\npm\selenium-side-runner
+C:\Users\Pao\AppData\Roaming\npm\selenium-side-runner.cmd
+
+C:\Program Files\Common Files\Oracle\Java\javapath\
+
+/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
+/*  java -jar C:\Users\Pao\BdB\selenium-server-standalone-4.15.0.jar standalone  */
+/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
+
+java -jar selenium-server-standalone-4.15.0.jar standalone
+java -jar C:\Program Files (x86)\Common Files\Oracle\Java\javapath\selenium-server-standalone-4.15.0.jar standalone
+
+
+C:\Program Files (x86)\Common Files\Oracle\Java\javapath\
+
+
+
+Class 3
+
+https://medium.com/@javatechie/how-to-kill-the-process-currently-using-a-port-on-localhost-in-windows-31ccdea2a3ea
+
+selenium-side-runner --server http://192.168.2.40:4444/wd/hub -c "goog:chromeOptions.args=[disable-infobars, headless]"  ReservationEntiereSuiteTest.side --output-directory="results"
+java -jar selenium-server-standalone-4.15.0.jar standalone
+
+Mine :
+C:\Users\Pao\BdB\Tests>
+selenium-side-runner --server http://192.168.2.165:4444/wd/hub -c "goog:chromeOptions.args=[disable-infobars, headless]"  ReservationEntiereSuiteTest.side --output-directory="results"
+
+
+Jenkins
+Git
+
+
+java -jar jenkins.war --httpPort=8086
+b8ce4ddd6ed54812a87ac4ef4d916957
+
+Jenkins : localhost:8086
+User : paola
+Pwd : Djs=Win
+
+
+H/03 * * * *
+
+
+Git
+
+cd Users/Pao/BdB/
+mkdir repo_git
+git clone https://github.com/spaoc/DemoTest.git
+	Cloning into 'DemoTest'...
+	remote: Enumerating objects: 3, done.
+	remote: Counting objects: 100% (3/3), done.
+	remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+	Receiving objects: 100% (3/3), done.
+ls
+
+
+Class 4
+Configuration pour lancer apres chaque commit
+	Avoir un repo en git
+	Cloner le repo en local
+	Configurer github 
+		Aller a settings
+		Aller a webhooks
+			Click on add a webhook
+	Downloader ngRock		https://ngrok.com/download
+
+github.com
+
+[18:35] NAJET (Invité)
+lien pour installer ngrock svp
+[18:36] Juarez, Mauro
+https://dashboard.ngrok.com/get-started/setup/windows
+
+
+Configuration pour lancer apres chaque commit
+	Avoir un repo en git
+	Cloner le repo en local
+	Configurer github 
+		Aller a settings
+		Aller a webhooks
+			Click on add a webhook
+	Downloader ngRock		https://ngrok.com/download
+	Aller au repertoire ou il a ete telecharge, exemple	D:\Automatisation2024\Parcours\Session3\ngrock
+	Moi je suis alle a ce page	https://dashboard.ngrok.com/get-started/setup/windows
+	Il m'a demande de m'authentifier avec microsoft authenticator
